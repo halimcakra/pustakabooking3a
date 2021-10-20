@@ -11,7 +11,7 @@
                 </th>
             </tr>
             <tr>
-                <td colspan="3">
+                <td colspan="3">   
                     <hr>
                 </td>
             </tr>
@@ -41,6 +41,6 @@
                 </td>
             </tr>
         </table>
-</body>
+</body> 
 
 </html>

@@ -8,3 +8,4 @@
     $nilai1 . " + " . $nilai2  . " yaitu  = " . $hasil; ?>
 </body>
 </html>
+   
