@@ -1,4 +1,4 @@
-    <section>
+<section>
         <h1><?php echo $judul ?></h1>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel sapien fringilla dui pellentesque congue. Integer consectetur placerat nisi nec feugiat. 
@@ -13,4 +13,3 @@
             Aliquam vel erat felis. Fusce tincidunt nulla tincidunt velit mattis venenatis. Fusce aliquet in orci eu tempor.
         </p>
     </section>
-        
